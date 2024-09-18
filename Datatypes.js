@@ -21,20 +21,25 @@ const Profile = {
 };
 console.log(Profile);
 
+const car = ["BMW", "Volvo"]
+console.log( car)
+
+
+
 
 // Primitive Datatypes
 
-const a = "Amit";
-console.log(typeof a);
+// const a = "Amit";
+// console.log(typeof a);
 
-const b = 123;
-console.log(typeof b);
+// const b = 123;
+// console.log(typeof b);
 
-const c = false;
-console.log(typeof c);
+// const c = false;
+// console.log(typeof c);
 
-let d = null
-console.log( d);
+// let d = null
+// console.log( d);
 
-const e = undefined;
-console.log(typeof e);
+// const e = undefined;
+// console.log(typeof e);
